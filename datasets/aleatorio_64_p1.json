@@ -1,0 +1,10 @@
+{
+  "id": "aleatorio_64_p1",
+  "tipo": "aleatorio",
+  "m": 64,
+  "n": 64,
+  "muestra": 1,
+  "alfabeto": "ACGT",
+  "x": "ATATTAAATGAGGCACATCGTTAACCCTGATCATCAGCGAACCCGAACAGAAGATGATCCGTCC",
+  "y": "TTCTTAAAGCGATACTCGGTGCTTCTACCGGGAAGCCCTCTCTGCCGAAGCGCGCCGCCCCGAC"
+}

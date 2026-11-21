@@ -1,0 +1,10 @@
+{
+  "id": "aleatorio_20_p1",
+  "tipo": "aleatorio",
+  "m": 20,
+  "n": 20,
+  "muestra": 1,
+  "alfabeto": "ACGT",
+  "x": "GCACAGTATACAGAGCTAGC",
+  "y": "TAGCCACGCTGTCATCTCTA"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aleatorio_16_p2",
+  "tipo": "aleatorio",
+  "m": 16,
+  "n": 16,
+  "muestra": 2,
+  "alfabeto": "ACGT",
+  "x": "AGAATAGGGATCTGTT",
+  "y": "AGGCTCCGGTTTCTGT"
+}

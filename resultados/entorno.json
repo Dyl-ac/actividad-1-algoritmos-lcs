@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "plataforma": "Windows-11-10.0.26200-SP0",
+  "procesador": "AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD",
+  "cpu_logicas": 16,
+  "repeticiones": 3,
+  "limite_cpu_a_s": 1.5,
+  "minimo_cpu_lote_s": 0.05,
+  "semilla": 20261121,
+  "alfabeto": "ACGT",
+  "parejas_aleatorias_por_longitud": 3,
+  "numero_casos": 22,
+  "longitudes_aleatorias": [
+    12,
+    16,
+    20,
+    64,
+    256,
+    1000
+  ],
+  "memoria": "Pico RSS/working set total del proceso; incluye intérprete y datos"
+}
